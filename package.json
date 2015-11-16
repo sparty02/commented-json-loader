@@ -1,0 +1,27 @@
+{
+  "name": "commented-json-loader",
+  "version": "0.1.0",
+  "description": "json loader module for webpack that supports comments in the source JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparty02/commented-json-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "json"
+  ],
+  "author": "Ryan Dunckel <sparty02@gmail.com> (http://me.sparty02.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sparty02/commented-json-loader/issues"
+  },
+  "homepage": "https://github.com/sparty02/commented-json-loader#readme",
+  "dependencies": {
+    "strip-json-comments": "^1.0.4"
+  }
+}
